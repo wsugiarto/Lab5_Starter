@@ -5,5 +5,5 @@ Wilson Sugiarto
 2. Yes, because this feature is not a feature that interacts with other components of the application, since it is only measuring data (the message length) which can be found locally. 
 
 Pages Link:
-https://wsugiarto.github.io/Lab5_Starter/expose.html
+https://wsugiarto.github.io/Lab5_Starter/expose.html  
 https://wsugiarto.github.io/Lab5_Starter/explore.html
