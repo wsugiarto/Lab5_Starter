@@ -72,7 +72,7 @@ test('invalid date with wrong format', () => {
 test('valid 3 hex', () => {
   expect(isHexColor('#fff')).toBe(true);
 });
-test('valid 6 hex', () => {
+test('valid 6 hex code', () => {
   expect(isHexColor('#123abc')).toBe(true);
 });
 test('invalid hex 5 digits', () => {
